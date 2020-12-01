@@ -1,5 +1,9 @@
 # Porter is so good at coding...
 
+<img src="images/crop_myslef.jpg" width="200" height="200" />
+<!-- ![](images/crop_myslef.jpg) -->
+
+
 # Projects
  - [Facebook Marketplace Project](Facebook Marketplace Project/README.md)
 ## Description
