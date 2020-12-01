@@ -1,7 +1,14 @@
 # Porter is so good at coding...
 
-<img src="images/crop_myslef.jpg" width="200" height="200" />
-<!-- ![](images/crop_myslef.jpg) -->
+<p class="aligncenter">
+    <img src="images/crop_myslef.jpg" alt="centered image" width="200" height="200"/>
+</p>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 
 # Projects
