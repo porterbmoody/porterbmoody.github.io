@@ -56,6 +56,3 @@ __Spotify profile__
 - composed [energetic, electronic beats](https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw)
 
 
-<!-- ### Footer
-
-Last updated: December 2020 -->
