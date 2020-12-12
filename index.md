@@ -12,7 +12,7 @@
 
 
 ## Who's Porter Moody??
-I'm Porter and I love linear algebra. I think it is the framework for the universe. It has powerful applications in many fields including physics, statitics, chemistry, database architecture, computer science, differential equations. If you want to read more take a gander at this [linear algebra is in all things article]().
+I'm Porter and I love linear algebra. I think it is the framework for the universe. It has powerful applications in many fields including physics, statitics, chemistry, database architecture, computer science, differential equations. If you want to read more take a gander at this [linear algebra is in all things article](article/index.md).
 
 Everyone take a look at [my resume](resume/index.md).
 
@@ -21,5 +21,5 @@ Everyone take a look at [my resume](resume/index.md).
 
  - I'm always plugging [my music](https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw)
 
-## Usage
+
 

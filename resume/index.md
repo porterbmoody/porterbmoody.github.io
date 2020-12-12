@@ -52,4 +52,10 @@ __Facebook marketplace webscrape personal project__
 
 __Spotify profile__
 `November 2018 - Current`
-- composed energetic, electronic beats
+
+- composed [energetic, electronic beats](https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw)
+
+
+<!-- ### Footer
+
+Last updated: December 2020 -->
