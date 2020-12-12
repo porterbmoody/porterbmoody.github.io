@@ -11,14 +11,15 @@
 </style>
 
 
-# Projects
- - [Facebook Marketplace Project](Facebook Marketplace Project/README.md)
-## Description
- - Uses Selenium/beautifulsoup to scrape facebook marketplace, 
- - Inserts data into a mysql database by sending strings from python
- - Then detects for newly added good deals and notifies recipient's phone number
+## Who's Porter Moody??
+I'm Porter and I love linear algebra. I think it is the framework for the universe. It has powerful applications in many fields including physics, statitics, chemistry, database architecture, computer science, differential equations. If you want to read more take a gander at this [linear algebra is in all things article]().
 
-## Files
+Everyone take a look at [my resume]().
+
+# Other Cool Stuff
+ - [Facebook Marketplace Project](Facebook Marketplace Project/README.md)
+
+ - [I'm always plugging my music](https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw)
 
 ## Usage
 
