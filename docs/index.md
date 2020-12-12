@@ -1,8 +1,8 @@
 ---
 layout: cv
 title: Porter Moody's resume
-markdown: kramdown
-kramdown:
+markdown: jekyll-theme-cayman
+jekyll-theme-cayman:
    auto_ids: true
 ---
 
