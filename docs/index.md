@@ -1,9 +1,6 @@
 ---
 layout: cv
-title: Porter Moody's resume
-markdown: jekyll-theme-cayman
-jekyll-theme-cayman:
-   auto_ids: true
+title: Porter's Resume
 ---
 
 # Porter Moody
