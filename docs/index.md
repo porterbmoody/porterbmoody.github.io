@@ -1,6 +1,9 @@
 ---
 layout: cv
 title: Porter Moody's resume
+markdown: kramdown
+kramdown:
+   auto_ids: true
 ---
 
 # Porter Moody
