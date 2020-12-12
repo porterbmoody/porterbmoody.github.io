@@ -54,4 +54,5 @@ __Facebook marketplace webscrape personal project__
 - Automatically runs daily. 
 
 __Spotify profile__
+`November 2018 - Current`
 - composed energetic, electronic beats
