@@ -17,9 +17,9 @@ I'm Porter and I love linear algebra. I think it is the framework for the univer
 Everyone take a look at [my resume](resume/index.md).
 
 # Other Cool Stuff
- - [Facebook Marketplace Project](Facebook Marketplace Project/README.md)
+ - Once I had an idea to make a [Facebook Marketplace Project](Facebook Marketplace Project/README.md)
 
- - [I'm always plugging my music](https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw)
+ - I'm always plugging [my music](https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw)
 
 ## Usage
 
