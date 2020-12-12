@@ -6,10 +6,10 @@ title: Porter's Resume
 # Porter Moody
 
 <div id="webaddress">
-<a href="porterbmoody@gmail.com">porterbmoody@gmail.com</a>
-| <a href="https://www.linkedin.com/in/porter-moody-884635199/">LinkedIn</a>
-| <a href="https://github.com/porterbmoody">GitHub</a>
-|<a href="https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw">Spotify</a>
+<a href="porterbmoody@gmail.com" target="_blank">porterbmoody@gmail.com</a>
+| <a href="https://www.linkedin.com/in/porter-moody-884635199/" target="_blank">LinkedIn</a>
+| <a href="https://github.com/porterbmoody" target="_blank">GitHub</a>
+| <a href="https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw" target="_blank">Spotify</a>
 </div>
 
 ## Education
