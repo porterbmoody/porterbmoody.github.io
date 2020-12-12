@@ -9,6 +9,7 @@ title: Porter Moody's resume
 <a href="porterbmoody@gmail.com">porterbmoody@gmail.com</a>
 | <a href="https://www.linkedin.com/in/porter-moody-884635199/">LinkedIn</a>
 | <a href="https://github.com/porterbmoody">GitHub</a>
+|<a href="https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw">
 </div>
 
 ## Education
@@ -48,3 +49,6 @@ __Facebook marketplace webscrape personal project__
 
 - Used python selenium/beautifulsoup to scrape Facebook Marketplace car listing data, insert into MySQL database and conditionally sends a text notification about new deals.
 - Automatically runs daily. 
+
+__Spotify profile__
+- composed energetic, electronic beats
