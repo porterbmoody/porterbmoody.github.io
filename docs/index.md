@@ -12,7 +12,7 @@ kramdown:
 <a href="porterbmoody@gmail.com">porterbmoody@gmail.com</a>
 | <a href="https://www.linkedin.com/in/porter-moody-884635199/">LinkedIn</a>
 | <a href="https://github.com/porterbmoody">GitHub</a>
-|<a href="https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw">
+|<a href="https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw">Spotify</a>
 </div>
 
 ## Education
