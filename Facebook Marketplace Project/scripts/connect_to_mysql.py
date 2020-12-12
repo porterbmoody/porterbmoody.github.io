@@ -8,7 +8,7 @@ config = {"user":'root',
             "password":'Yoho1mes',
             "host":'127.0.0.1',
             "database":"cars"}
-path = "D:/BYUI/fall 2020/Side Projects/facebookmarketplace_scrape_project/data/cars.csv"
+path = "D:/BYUI/fall 2020/Side Projects/porterbmoody.github.io/Facebook Marketplace Project/data/cars.csv"
 dat1 = pd.read_csv(path)
 dat1 = dat1.where(pd.notnull(dat1), None)
 columns_titles = ['title', 'year', 'miles', 'price', 'link', 'location']

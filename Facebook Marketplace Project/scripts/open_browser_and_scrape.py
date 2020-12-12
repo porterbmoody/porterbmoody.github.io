@@ -136,13 +136,13 @@ def scrape_soup(soup):
             "price"    : prices,
             "location" : locations,
             "link"     : links
-            }).query('price != "Sold" and price != "Pending"').assign(
+            }).query('price != "Sold" and price != "Pending" and price != "FREE"').assign(
             year  = lambda x: x['title'].str.extract(r'^(\d{4})').astype("Float32"),
             price = lambda x: x['price'].str.replace("$", "").str.replace(",", "").astype("Float32"),
             miles = lambda x: x['miles'].str.extract("(\d+)").astype("Float32")*1000
             ))
 
-    path="D:/BYUI/fall 2020/Side Projects/facebookmarketplace_scrape_project/data/cars.csv"
+    path="D:/BYUI/fall 2020/Side Projects/porterbmoody.github.io/Facebook Marketplace Project/data/cars.csv"
     dat.to_csv(path, index = False)
 
 def keep_open():
@@ -179,9 +179,10 @@ def main():
     driver.quit()
 if __name__ == "__main__":
     
-    wait_time = random.randint(2000*60, 3000*60)/99
-    print('Waiting:', round(wait_time/60, 2), "mins to run again.")
-    # time.sleep(wait_time)
+    wait_time = random.randint(0, 300*60)/99
+    print('Waiting:', round(wait_time), "seconds,",round(wait_time/60),"mins to run again.")
+    
+    time.sleep(wait_time)
     main()
     # Count number of epic rows, execute the query and assign it to a pandas dataframe, detect if new epic rows were added
     connect_to_mysql.main()
