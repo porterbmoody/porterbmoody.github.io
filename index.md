@@ -21,7 +21,9 @@ If you want to know more, take a look at <a href="resume/" target="_blank">my re
 
  - I'm always plugging <a href="https://open.spotify.com/artist/5cPd79HlwskcQGkXXSpgQA?si=xbSpWU33S1yRsxYCHSzEHw" target="_blank">my music</a>
 
+# Awesome Religious Blog
 
+ - Jacob 5, the Allegory of the Olive Trees
 
 <!-- ### Footer
 
