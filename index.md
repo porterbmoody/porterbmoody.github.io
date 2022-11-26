@@ -25,7 +25,7 @@ If you want to know more, take a look at <a href="resume/" target="_blank">my re
 
  - Awesome [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md) blog post
 
- - Once I had an idea to make a [Facebook Marketplace Project](Facebook Marketplace Project/README.md)
+
 
 <!-- ### Footer
 
