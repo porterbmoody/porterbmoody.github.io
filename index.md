@@ -23,7 +23,7 @@ If you want to know more, take a look at <a href="resume/" target="_blank">my re
 
 # Awesome Religious Blog
 
- - Jacob 5, the Allegory of the Olive Trees
+ - [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md)
 
 <!-- ### Footer
 
