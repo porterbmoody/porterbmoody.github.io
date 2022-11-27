@@ -2,6 +2,8 @@
 
 # Jacob 5, the Allegory of the Olive Trees
 
+<img src="olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 When speaking of [Jacob 5 from The Book of Mormon][1], Joseph Fielding Smith said, "No greater parable was ever recorded"
 
@@ -40,7 +42,6 @@ Then we have a verse as to the purpose of the allegory
 
 # Allegory
 
-<img src="olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 The above image of an olive tree 
 
