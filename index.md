@@ -11,6 +11,7 @@
 </style>
 
  - Awesome [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md) blog post
+ - [The book of life and how we are judged](blog/The book of life and how we are judged.md)
 
 
 <!-- 
