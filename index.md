@@ -1,7 +1,7 @@
 # Awesome Blog
 
 <p class="aligncenter">
-    <img src="images/crop_myslef.jpg" alt="centered image" width="200" height="200"/>
+    <img src="blog/gilead.jpg" alt="centered image" width="200" height="200"/>
 </p>
 
 <style>
@@ -11,6 +11,7 @@
 </style>
 
  - Awesome [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md) blog post
+ - Awesome [Polygamy](blog/Jacob 5.md) blog post 
  - [The book of life and how we are judged](blog/The book of life and how we are judged.md)
 
 
