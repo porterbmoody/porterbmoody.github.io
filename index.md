@@ -1,7 +1,7 @@
-# Porter Moody Blog
+# Is there no balm in gilead?
 
 <p class="aligncenter">
-    <img src="blog/gilead.jpg" alt="centered image" width="200" height="200"/>
+    <img src="blog/gilead.jpg" alt="centered image" width="400" height="400"/>
 </p>
 
 <style>
@@ -9,6 +9,9 @@
     text-align: center;
 }
 </style>
+
+## Welcome
+The purpose of this blog is to share deeper doctrinal insights on a variety of gospel topics. Sources are attempted to be listed for any point in order for the accuracy to best traced. 
 
  - Awesome [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md) blog post
  - Awesome [Polygamy](blog/Polygamy.md) blog post 
