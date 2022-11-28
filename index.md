@@ -1,4 +1,4 @@
-# Awesome Blog
+# Porter Moody Blog
 
 <p class="aligncenter">
     <img src="blog/gilead.jpg" alt="centered image" width="200" height="200"/>
