@@ -11,7 +11,7 @@
 </style>
 
 ## Welcome
-The purpose of this page is to share deeper doctrinal insights on a variety of gospel topics. Sources are attempted to be listed for any point in order for the accuracy to best be traced. 
+The purpose of this page is to share deeper doctrinal insights on a variety of gospel topics. Sources are attempted to be listed for any point in order for the accuracy to best be traced. The overarching theme of the page is to answer the question of where or not there is a balm in gilead, or whether Jesus is really the Christ.
 
  - Awesome [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md) blog post
  - Awesome [Polygamy](blog/Polygamy.md) blog post 
@@ -21,7 +21,7 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 
 ## Contact
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 <!-- 
 ## Who's Porter Moody??
 I'm Porter and I love linear algebra. I think it is the framework for the universe. It has powerful applications in many fields including physics, statitics, chemistry, database architecture, computer science, differential equations. If you want to read more take a gander at this <a href="article/" target="_blank">linear algebra is in all things article</a> -->
