@@ -21,9 +21,10 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 
 ## Contact
 
-<a href=”https://www.facebook.com">Facebook<img align=”left” src=”blog/facebook.png" alt=”icon | Facebook” width=”21px”/></a>
 
+<a href="https://www.facebook.com/porter.moody.33">Facebook</a>
 
+<!-- <img align=”left” src=”blog/facebook.png" alt=”icon | Facebook” width=”21px”/> -->
 
 <!-- 
 ## Who's Porter Moody??
