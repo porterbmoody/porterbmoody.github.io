@@ -2,7 +2,7 @@
 
 # Jacob 5, the Allegory of the Olive Trees
 
-<img src="olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 600px">
 
 When speaking of [Jacob 5 from The Book of Mormon][1], Joseph Fielding Smith said, "No greater parable was ever recorded"
 
@@ -52,11 +52,23 @@ Jacob begins by declaring that he will be quoting the prophet [Zenos][2].
 
 > 2 Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.
 
+The allegory begins by describing The House of Israel as an Olive Tree which a man nourished until it got old and began to decay.
+
 > 3 For behold, thus saith the Lord, I will liken thee, O house of Israel, like unto a tame olive tree, which a man took and nourished in his vineyard; and it grew, and waxed old, and began to decay.
+
+Once it started to decay the master of the vineyard pruned it, digged about it and nourished it and it grew young and tender branches, but the top was still decaying.
 
 > 4 And it came to pass that the master of the vineyard went forth, and he saw that his olive tree began to decay; and he said: I will prune it, and dig about it, and nourish it, that perhaps it may shoot forth young and tender branches, and it perish not.
 
-The allegory begins by describing The House of Israel as an Olive Tree which a man nourished until it got old and began to decay. Once it started to decay the master of the vineyard pruned it, digged about it and nourished it and it grew young and tender branches, but the top was still decaying. Then the master commanded His servant to get branches from the wild olive tree and take.
+
+> 5 And it came to pass that he pruned it, and digged about it, and nourished it according to his word.
+
+> 6 And it came to pass that after many days it began to put forth somewhat a little, young and tender branches; but behold, the main top thereof began to perish.
+
+Then the master commanded His servant to get branches from the wild olive tree and take.
+
+> 7 And it came to pass that the master of the vineyard saw it, and he said unto his servant: It grieveth me that I should lose this tree; wherefore, go and pluck the branches from a wild olive tree, and bring them hither unto me; and we will pluck off those main branches which are beginning to wither away, and we will cast them into the fire that they may be burned.
+
 
 
 
