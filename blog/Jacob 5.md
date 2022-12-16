@@ -2,7 +2,9 @@
 
 # Jacob 5, the Allegory of the Olive Trees
 
-<img src="../images/olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 600px">
+<center>
+<img src="../images/olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 275px">
+</center>
 
 When speaking of [Jacob 5 from The Book of Mormon][1], Joseph Fielding Smith said, "No greater parable was ever recorded"
 
