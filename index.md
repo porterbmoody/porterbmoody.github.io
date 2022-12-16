@@ -15,7 +15,8 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 
 ## Posts
 
-- [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md)
+- [Jacob 5, the Allegory of the Olive Trees]()
+<button name="button" onclick="blog/Jacob 5.md">Read more</button>
 - [Polygamy](blog/Polygamy.md)
 - [The book of life and how we are judged](blog/The book of life and how we are judged.md)
 - [Is there no Balm in Gilead?](blog/is there no balm in gilead.md)
@@ -26,13 +27,9 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 <!-- [button url="http://www.google.com"] -->
 
 
-Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+<!-- [Click me](http://www.google.com){: .btn} -->
 
-Lorem ipsum dolor sit amet.
-
-<button name="button" onclick="http://www.google.com">Click me</button>
 
 <!-- <button name="button" onclick="http://www.google.com">Click me</button> -->
 
