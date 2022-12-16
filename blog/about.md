@@ -11,4 +11,4 @@ I love digging deeper into the doctrine to really try to understand what the scr
 
 I love programming in python, r, SQL, and learing about statistics, machine learning algorithms. Linear algebra is the most fascination math topic I have ever studied. 
 
-The purpose of this blog is to share some of those findings and insights I come accross that may help someone getting a fuller grasp of the gospel, history or any topic in between. Another purpose is 
+The purpose of this blog is to share some of those findings and insights I come accross that may help someone getting a fuller grasp of the gospel, history or any topic in between. Another purpose is to help people realize that there actually is a Balm in Gilead. 
