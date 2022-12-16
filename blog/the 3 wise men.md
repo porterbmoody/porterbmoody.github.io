@@ -10,6 +10,8 @@
 
 The story of the three wise men who traveled to the birth of Jesus is a wonderful story with rich and inspiring symbolism.
 
+# What we know about the wise men
+
 
 
 
