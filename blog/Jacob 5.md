@@ -67,8 +67,10 @@ Once it started to decay the master of the vineyard pruned it, digged about it a
 
 > 6 And it came to pass that after many days it began to put forth somewhat a little, young and tender branches; but behold, the main top thereof began to perish.
 
-Then the master commands His servant to get branches from the wild olive tree and take. The time period here is right before Israel began to be scattered. 
-The Scattering of Israel begins with the sacking of the northern Kingdom by the Assyrians. Before this time, the northern kingdom was completely wicked, and had a long line of wicked, idolatrous kings. 
+Then the master commands His servant to get branches from the wild olive tree and take. The time period here is right before Israel began to be scattered at 721BC.
+The Scattering of Israel begins with the sacking of the northern Kingdom by the Assyrians. Before this time, the northern kingdom was completely wicked, and had a long line of wicked, idolatrous kings.
+The other young and tender branches refer to the smaller, righteous kingdom of Judah who were still faithful. 
+There were also wicked people in the kingdom of Judah who were eventually destroyed and people who were preserved by being scattered in the northern kingdom. 
 
 > 7 And it came to pass that the master of the vineyard saw it, and he said unto his servant: It grieveth me that I should lose this tree; wherefore, **go and pluck the branches from a wild olive tree**, and bring them hither unto me; and we will pluck off those main branches which are beginning to wither away, and we will cast them into the fire that they may be burned.
 
