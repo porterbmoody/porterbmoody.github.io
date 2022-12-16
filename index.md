@@ -26,8 +26,13 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 <!-- [button url="http://www.google.com"] -->
 
 
-{% include button.html url="blog/the%203%20wise%20men.md" %}
+Lorem ipsum dolor sit amet.
 
+[Click me](http://www.google.com){: .btn}
+
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 <!-- <button name="button" onclick="http://www.google.com">Click me</button> -->
 
