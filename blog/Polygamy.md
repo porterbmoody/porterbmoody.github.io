@@ -8,6 +8,10 @@ Polygamy is defined as In the early Church of Jesus Christ of Latter Day Saints 
 
 There are multiple revelations directing the institution of polygamy:
 
-- Jacob 2:30 *For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.*
+- Jacob 2:30 
+> *For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.*
 
 - Doctrine and Covenants 132
+
+
+
