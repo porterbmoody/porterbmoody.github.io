@@ -15,23 +15,13 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 
 ## Posts
 
-- Jacob 5, the Allegory of the Olive Trees
+- [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md)<button name="button" onclick="blog/Jacob 5.md">Read more</button>
 
-    <button name="button" onclick="blog/Jacob 5.md">Read more</button>
+- [Polygamy](blog/Polygamy.md)<button name="button" onclick="blog/Polygamy.md">Read more</button>
 
-- Polygamy
+- [The book of life and how we are judged](blog/The book of life and how we are judged.md)<button name="button" onclick="blog/The book of life and how we are judged.md">Read more</button>
 
-    <button name="button" onclick="blog/Polygamy.md">Read more</button>
+- [Is there no Balm in Gilead?](blog/is there no balm in gilead.md)<button name="button" onclick="blog/is there no balm in gilead.md">Read more</button>
 
-- The book of life and how we are judged
-
-    <button name="button" onclick="blog/The book of life and how we are judged.md.md">Read more</button>
-
-- Is there no Balm in Gilead?
-
-    <button name="button" onclick="blog/is there no balm in gilead.md.md">Read more</button>
-
-- The 3 Wise Men
-
-    <button name="button" onclick="blog/the 3 wise men.md">Read more</button>
+- [The 3 Wise Men](blog/the 3 wise men.md)<button name="button" onclick="blog/the 3 wise men.md">Read more</button>
 
