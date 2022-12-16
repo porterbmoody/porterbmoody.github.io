@@ -19,7 +19,7 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 - [Polygamy](blog/Polygamy.md)
 - [The book of life and how we are judged](blog/The book of life and how we are judged.md)
 - [Is there no Balm in Gilead?](blog/is there no balm in gilead.md)
-
+- [The 3 Wise Men](blog/the%203%20wise%20men.md)
 
 
 <!-- ## Contact
