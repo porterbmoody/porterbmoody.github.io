@@ -20,6 +20,6 @@ Here's a map of the geographical location of Gilead.
 Here is also another picture of the bush used to create such the ointment refered to as the Balm in Gilead. These 
 
 <center>
-<img src="../images/gilead_bush.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 275px">
+<img src="../images/gilead_bush.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 350px">
 </center>
 
