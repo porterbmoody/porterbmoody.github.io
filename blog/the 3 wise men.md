@@ -12,15 +12,6 @@ The story of the three wise men who traveled to the birth of Jesus is a wonderfu
 
 
 
-[button url="http://www.google.com"]
 
-
-{% include button.html url="http://www.google.com" %}
-
-
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-
-[Click me](http://www.google.com){: .btn}
 
 

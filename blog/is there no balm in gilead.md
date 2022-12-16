@@ -23,3 +23,4 @@ Here is also another picture of the bush used to create such the ointment refere
 <img src="../images/gilead_bush.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 350px">
 </center>
 
+

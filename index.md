@@ -17,11 +17,12 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 
 - Jacob 5, the Allegory of the Olive Trees
 
-    <!-- <button name="button" onclick="blog/Jacob 5.md">Read more</button> -->
+    <button name="button" onclick="blog/Jacob 5.md">Read more</button>
 
 - [Polygamy](blog/Polygamy.md)
 
-    <!-- <button name="button" onclick="blog/Jacob 5.md">Read more</button> -->
+    <!-- <button name="button">Press me</button> -->
+
 
 - [The book of life and how we are judged](blog/The book of life and how we are judged.md)
 
