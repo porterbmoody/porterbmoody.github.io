@@ -1,1 +1,0 @@
-Take a gander at <a href="https://porterbmoody.github.io/resume/" target="_blank">my resume</a>
