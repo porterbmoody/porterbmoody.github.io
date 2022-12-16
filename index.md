@@ -15,13 +15,14 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 
 ## Posts
 
-- [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md)
+- [Jacob 5, the Allegory of the Olive Trees](posts/Jacob 5.md)
 
-- [Polygamy](blog/Polygamy.md)
+- [Polygamy](posts/Polygamy.md)
 
-- [The book of life and how we are judged](blog/The book of life and how we are judged.md)
+- [The book of life and how we are judged](posts/The book of life and how we are judged.md)
 
-- [Is there no Balm in Gilead?](blog/is there no balm in gilead.md)
+- [Is there no Balm in Gilead?](posts/is there no balm in gilead.md)
 
-- [The 3 Wise Men](blog/the 3 wise men.md)
+- [The 3 Wise Men](posts/the 3 wise men.md)
 
+- [If God really loves us so much, why does he allow so much suffering?](posts/If God really loves us so much, why does he allow so much suffering.md)
