@@ -1,6 +1,4 @@
 
-# Is there no balm in gilead?
-
 <p class="aligncenter">
     <img src="images/gilead.jpg" alt="centered image" width="400" height="275"/>
 </p>
