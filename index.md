@@ -19,18 +19,19 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 
     <button name="button" onclick="blog/Jacob 5.md">Read more</button>
 
-- [Polygamy](blog/Polygamy.md)
+- Polygamy
 
-    <!-- <button name="button">Press me</button> -->
+    <button name="button" onclick="blog/Polygamy.md">Read more</button>
 
+- The book of life and how we are judged
 
-- [The book of life and how we are judged](blog/The book of life and how we are judged.md)
+    <button name="button" onclick="blog/The book of life and how we are judged.md.md">Read more</button>
 
-    <!-- <button name="button" onclick="blog/Jacob 5.md">Read more</button> -->
+- Is there no Balm in Gilead?
 
-- [Is there no Balm in Gilead?](blog/is there no balm in gilead.md)
+    <button name="button" onclick="blog/is there no balm in gilead.md.md">Read more</button>
 
-    <!-- <button name="button" onclick="blog/Jacob 5.md">Read more</button> -->
-- [The 3 Wise Men](blog/the%203%20wise%20men.md)
+- The 3 Wise Men
 
+    <button name="button" onclick="blog/the 3 wise men.md">Read more</button>
 
