@@ -22,6 +22,18 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 - [The 3 Wise Men](blog/the%203%20wise%20men.md)
 
 
+
+<!-- [button url="http://www.google.com"] -->
+
+
+{% include button.html url="blog/the%203%20wise%20men.md" %}
+
+
+<!-- <button name="button" onclick="http://www.google.com">Click me</button> -->
+
+
+<!-- [Click me](http://www.google.com){: .btn} -->
+
 <!-- ## Contact
 
 
