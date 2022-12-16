@@ -10,7 +10,7 @@
 </style>
 
 ## Welcome
-The purpose of this page is to share deeper doctrinal insights on a variety of gospel topics. Sources are attempted to be listed for any point in order for the accuracy to best be traced. The overarching theme of the page is to show that there is a balm in gilead or in other words, there is a Christ. 
+The purpose of this page is to share deeper doctrinal insights on a variety of gospel topics. Sources are attempted to be listed for any point in order for the accuracy to best be traced. 
 
 
 ## Posts
@@ -18,6 +18,7 @@ The purpose of this page is to share deeper doctrinal insights on a variety of g
 - [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md)
 - [Polygamy](blog/Polygamy.md)
 - [The book of life and how we are judged](blog/The book of life and how we are judged.md)
+- []
 
 
 
