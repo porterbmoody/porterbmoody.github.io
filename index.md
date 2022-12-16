@@ -2,7 +2,7 @@
 # Is there no balm in gilead?
 
 <p class="aligncenter">
-    <img src="blog/gilead.jpg" alt="centered image" width="400" height="400"/>
+    <img src="images/gilead.jpg" alt="centered image" width="400" height="400"/>
 </p>
 
 <style>
@@ -14,16 +14,23 @@
 ## Welcome
 The purpose of this page is to share deeper doctrinal insights on a variety of gospel topics. Sources are attempted to be listed for any point in order for the accuracy to best be traced. The overarching theme of the page is to show that there is a balm in gilead or in other words, there is a Christ. 
 
+
+### Book of Mormon
+
 - [Jacob 5, the Allegory of the Olive Trees](blog/Jacob 5.md)
+
+
+### Special Topics
+
 - [Polygamy](blog/Polygamy.md)
 - [The book of life and how we are judged](blog/The book of life and how we are judged.md)
 
 
 
-## Contact
+<!-- ## Contact
 
 
-<a href="https://www.facebook.com/porter.moody.33">Facebook</a>
+<a href="https://www.facebook.com/porter.moody.33">Facebook</a> -->
 
 <!-- <img align=”left” src=”blog/facebook.png" alt=”icon | Facebook” width=”21px”/> -->
 

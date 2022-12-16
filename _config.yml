@@ -7,8 +7,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Is there no Balm in Gilead?
+name: Porter
+title: Contact
 email: porterbmoody@gmail.com
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
