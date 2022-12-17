@@ -1,6 +1,6 @@
 
 
-# The Book of Life and How we are Judged
+<!-- # The Book of Life and How we are Judged -->
 
 
 There are several [references to the Book of Life][1] in scripture. There are also references to a [Book of Rememberence][2]

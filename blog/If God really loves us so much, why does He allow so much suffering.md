@@ -1,5 +1,5 @@
 
-# If God really loves us so much, why does he allow so much suffering?
+<!-- # If God really loves us so much, why does he allow so much suffering? -->
 
 <center>
 <img src="../images/gethsemane.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 400px">

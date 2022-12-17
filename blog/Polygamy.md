@@ -1,5 +1,5 @@
 
-# Polygamy
+<!-- # Polygamy -->
 
 
 Polygamy is defined as In the early Church of Jesus Christ of Latter Day Saints this practice was instituted for more than half a century.
