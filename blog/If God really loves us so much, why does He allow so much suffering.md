@@ -37,6 +37,9 @@ Many disciples of Jesus have gone through great trials and afflictions for the G
 
 - And many more...
 
+# Those who never knew God who suffer
+
+
 
 
 

@@ -4,7 +4,7 @@
 
 
 <center>
-<img src="../images/wise_men.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 350px">
+<img src="../images/wise_men.jpg" alt="Alt text" title="wise men" style="display: inline-block; margin: 0 auto; max-width: 350px">
 </center>
 
 “When we find him, will we be prepared as were the wise men of old to provide gifts from our many treasures? They presented gold, frankincense, and myrrh. These are not the gifts Jesus asks of us. From the treasure of our hearts Jesus asks that we give of ourselves: ‘Behold, the Lord requireth the heart and a willing mind’[1]”
