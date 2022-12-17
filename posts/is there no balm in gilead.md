@@ -1,6 +1,6 @@
 
 
-<!-- # Is there no Balm in Gilead -->
+# Is there no Balm in Gilead
 
 This question comes from the following verse in Jeremiah.
 

@@ -1,6 +1,6 @@
 
 
-<!-- # Jacob 5, the Allegory of the Olive Trees -->
+# Jacob 5, the Allegory of the Olive Trees
 
 <center>
 <img src="../images/olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 275px">
