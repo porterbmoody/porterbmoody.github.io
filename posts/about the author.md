@@ -1,6 +1,6 @@
 
 
-<!-- # About the Author -->
+# About the Author
 
 
 <center><img src="../images/myself.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 200px"></center>

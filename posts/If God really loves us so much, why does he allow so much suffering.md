@@ -1,13 +1,11 @@
 
-<!-- # If God really loves us so much, why does he allow so much suffering? -->
+# If God really loves us so much, why does he allow so much suffering?
 
 <center>
 <img src="../images/gethsemane.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 400px">
 </center>
 
 It's a big question and can't be fully answered with a simple one liner or one size fits all solution. We're gonna take a stab at answering this question. 
-
-Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. 
 
 It is a question every believer asks at some point during their lifetime. There is so much suffering in the world. Job is one example of a righteous person who suffered many afflictions. There are examples of righteous people who suffered greatly, unrighteous people who suffered greatly. People who's suffering was a result of their own actions, and people who's suffering was a result of others actions, or just happened. Whatever the category, everyone experiences suffering to some degree in their lifetimes. 
 
@@ -37,12 +35,18 @@ Many disciples of Jesus have gone through great trials and afflictions for the G
 
 - And many more...
 
+In many cases, the suffering of these individuals 
+
+# Unrighteous who suffer
+
+
 # Those who never knew God who suffer
 
 
 
 
 
+Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. They quoted Victor Frankyl show said, 
 
 
 
