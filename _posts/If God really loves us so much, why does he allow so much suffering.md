@@ -1,5 +1,10 @@
-
-# If God really loves us so much, why does he allow so much suffering?
+---
+layout: post
+title: "If God really loves us so much, why does he allow so much suffering?"
+subtitle: "Problems look mighty small from 150 miles up"
+date: 2020-01-31 10:45:13 -0400
+background: '/img/gethsemane.jpg'
+---
 
 <center>
 <img src="../images/gethsemane.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 400px">
@@ -41,9 +46,6 @@ In many cases, the suffering of these individuals
 
 
 # Those who never knew God who suffer
-
-
-
 
 
 Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. They quoted Victor Frankyl show said, 
