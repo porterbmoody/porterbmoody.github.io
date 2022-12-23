@@ -3,7 +3,7 @@ layout: post
 title: "Jacob 5, the Allegory of the Olive Trees"
 subtitle: ""No greater parable was ever recorded" - Joseph Fielding Smith"
 date: 2022-12-23 23:45:13 -0400
-background: '/img/posts/01.jpg'
+background: '/img/olive tree.jpg'
 ---
 
 
