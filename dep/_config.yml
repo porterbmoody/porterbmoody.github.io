@@ -1,0 +1,17 @@
+theme: jekyll-theme-clean-blog
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Porter
+title: Is there no Balm in Gilead?
+email: porterbmoody@gmail.com
+# email_title: Email (Email title override)
+phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+website: www.istherenobalmingilead.com
+# website_title: Web (Website title override)
