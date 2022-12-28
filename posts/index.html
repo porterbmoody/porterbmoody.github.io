@@ -9,8 +9,8 @@ background: '/img/gilead.jpg'
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     var dataType = {{ post.background }};
-    <p>swag pic</p>
     <img src="${dataType}" alt="${dataType}">
+    <p>swag pic</p>
     <br>  
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
