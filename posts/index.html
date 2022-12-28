@@ -14,7 +14,7 @@ background: '/img/gilead.jpg'
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
     {% else %}
     <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-    <img src="{{ post.background }}" alt="{{ post.background }}" width="200">
+    <img src="{{ post.background }}" alt="{{ post.background }}" width="300">
     {% endif %}
   </a>
   <p class="post-meta">Posted by
