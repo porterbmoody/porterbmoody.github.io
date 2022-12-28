@@ -8,8 +8,8 @@ background: '/img/gilead.jpg'
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    var dataType = {{ post.background }};
-    <img onload="this.src=dataType;" alt="${dataType}">
+    <!-- var dataType = {{ post.background }}; -->
+    <img src="{{ post.background }}" alt="{{ post.background }}">
     <br>
     <p>swag pic</p>
     <br>  
