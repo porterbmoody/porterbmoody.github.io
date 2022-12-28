@@ -9,7 +9,7 @@ background: '/img/gilead.jpg'
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     var dataType = {{ post.background }};
-    var swag_block = <img src="${dataType}" alt="pic">
+    var swag_block = <img src="${dataType}" alt="${dataType}">
     console.log(htmlBlock);
     <p>swag pic</p>
     <img src="${dataType}" alt="pic">
