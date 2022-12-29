@@ -1,3 +1,3 @@
-module github.com/porterbmoody/porterbmoody.github.io
+module github.com/theNewDynamic/gohugo-theme-ananke
 
-go 1.19
+go 1.14
